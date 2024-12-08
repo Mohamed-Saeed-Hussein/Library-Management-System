@@ -49,9 +49,9 @@ public class Login extends javax.swing.JFrame {
         jButton3.setIcon(new javax.swing.ImageIcon("C:\\Users\\msaid\\Desktop\\icons8-forgot-password-20.png")); // NOI18N
         jButton3.setText("Forgot Password");
 
-        jPasswordField1.setFont(new java.awt.Font("Tahoma", 1, 12)); // NOI18N
+        jPasswordField1.setFont(new java.awt.Font("Tahoma", 0, 12)); // NOI18N
 
-        jTextField1.setFont(new java.awt.Font("Tahoma", 1, 12)); // NOI18N
+        jTextField1.setFont(new java.awt.Font("Tahoma", 0, 12)); // NOI18N
         jTextField1.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
                 jTextField1ActionPerformed(evt);
